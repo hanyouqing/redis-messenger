@@ -29,7 +29,7 @@
     "bluebird": "3.5.0",
     "debug": "2.2.0",
     "ioredis": "3.1.1",
-    "lodash": "4.17.4",
+    "lodash": "4.17.21",
     "shimo-guid": "1.0.2"
   }
 }
